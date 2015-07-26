@@ -1,15 +1,19 @@
 name: OSDev4Arab
 author: OSDev4Arab
-domain: a3f.at
 baseurl: /bal6eem
 description: نحو مجتمع عربي عن تطوير نظم التشغيل
+logo: /bal6eem/images/logo-hq.png
+
 github: http://www.github.com/osdev4arab/osdev4arab
 twitter: http://www.twitter.com/
 facebook: https://www.facebook.com/groups/osdev4arab/
 linkedin: http://www.linkedin.com
+trello: https://trello.com/b/pslUMpQW/osdev4arab-website
+udemy: https://www.udemy.com/u/osdev4arab/
 email: osdev4arab@gmail.com 
-location: $HOME
 disqus: osdev4arab 
+
+location: $HOME
 ##Make sure to edit the above fields, especially for disqus.
 
 
