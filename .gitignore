@@ -1,7 +1,6 @@
 _site
 *~
 
-*.swp
-*.swo
+# vim swap
+*.sw*
 .DS_Store
-

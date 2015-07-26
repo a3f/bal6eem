@@ -247,6 +247,7 @@ pre
 i.udemy:hover
 {
  background: url(/bal6eem/images/udemy-black.png) no-repeat right center;
+ background-size: 14px 14px;
 }
 
 i.udemy
